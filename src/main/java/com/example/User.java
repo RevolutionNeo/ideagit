@@ -5,4 +5,6 @@ public class User {
     private String name;
     private int age;
     private boolean sex;
+    private int age0 = 0;
+    private int age1 = 1;
 }
